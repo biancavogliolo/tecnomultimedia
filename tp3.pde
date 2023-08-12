@@ -31,18 +31,18 @@ void setup () {
   historia[5]="ursula le roba la voz a ariel,\n dejandola muda pero cumpliendo con su parte del trato,\n le da sus piernas";//imagen 5
   historia[6]="Ursula se convierte en humana,\n mas que dispuesta a probar lo que su nueva voz podia hacer\n y sale a la superficie"; //imagen 6
   historia[7]="Ursula comienza a cantar\n y ahi es cuando Eric, nuestro principe oye nuevamente esa voz que tanto lo había cautivado,\n decide pedirle matrimonio\n a la hermosa dama portadora de dicha voz"; // imagen 7
-  historia[8]="Comienza la ceremonia de la boda,\n ariel estaba observando todo desde el mar"; // imagen 8
+  historia[8]="Comienza la ceremonia de la boda,\n ariel estaba observando todo desde el mar, \n¿que le pasara a ariel, se enojara (A)\n o esperara que el destino haga de las suyas (B)?"; // imagen 8
   historia[9]="uno de los amigos de ariel \n va a l rescate del gran amor de su amiga,\n una gaviota con un espejo en su pico\n se acerca a ursula,\n mostrando en el reflejo su verdadera apariencia,\n haciendo que el principe se de cuenta\n de quien era la persona con la que se estaba por casar"; //imagen 9
   historia[10]="eric se da cuenta que la voz de su verdadero amor reside en el collar que ursula traia puesto,\n por lo cual decide arretarselo y lanzarlo al mar"; //imagen 9.5
   historia[11]="ariel recupera su hermosa voz\n y decide salir a la superficie en busca de su principe"; // imagen 10
   historia[12]="se dan un gran beso de amor verdadero y deciden casarse";//imagen 11
   historia[13]=" se casan y viven felices para siempre. FIN"; // imagen 12 
   historia[14]="Ariel observaba toda la ceremonia enojada desde el mar,\n por lo que decide tomar venganza…"; //imagen 14
-  historia[15]="ariel decide secuestrar a su gran amor al fondo,\n del oceano, pero lo que ella no recordo,\n es que el era un simple humano,\n por lo que Eric fallece ahogado en brazos de ariel. FIN";// imagen 15
+  historia[15]="ariel decide secuestrar a su gran amor al fondo,\n del oceano, pero lo que ella no recordo,\n es que el era un simple humano,\n por lo que Eric fallece\n ahogado en brazos de ariel. FIN";// imagen 15
   historia[16]="Ariel estaba en la roca cantando,\n pero ignoraba la presencia de un barco al asecho,\n por lo cual se distrajo y fue secuestrada"; //imagen 7
   historia[17]="Ariel fue arrastrada en una red de pescador\n hasta la cubierta del barco"; // imagen 16
   historia[18]=" estaba tirada en la cubierta del barco,\n como si fuese uno de los peces que esos pescadores habian arrebatado del mar,\n no había forma de escapar"; //imagen 17
-  historia[19]="ariel fue puesta en una bañera para que no muriera,\n ya que pronto seria traslladada a au nuevo hogar,\n y sus captores obtendria muchisimo dinero por ella"; //imagen 18
+  historia[19]="ariel fue puesta en una bañera para que no muriera,\n ya que pronto seria traslladada a su nuevo hogar,\n y sus captores obtendria muchisimo dinero por ella"; //imagen 18
   historia[20]="ariel fue trasladada a su nuevo hogar, \nel acuario, donde fue expluesta a los turistas hasta el dia de su muerte. FIN";// imagen 19
  }
  
