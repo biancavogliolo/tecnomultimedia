@@ -33,7 +33,7 @@ void setup () {
   historia[6]="Ursula se convierte en humana,\n mas que dispuesta a probar lo que su nueva voz podia hacer\n y sale a la superficie"; //imagen 6
   historia[7]="Ursula comienza a cantar\n y ahi es cuando Eric, nuestro principe oye nuevamente esa voz que tanto lo había cautivado,\n decide pedirle matrimonio\n a la hermosa dama portadora de dicha voz"; // imagen 7
   historia[8]="Comienza la ceremonia de la boda,\n ariel estaba observando todo desde el mar ¿ que es lo que le pasara a Ariel, se enojara(A) o no hara nada(B)?"; // imagen 8
-  historia[9]="uno de los amigos de ariel \n va a l rescate del gran amor de su amiga,\n una gaviota con un espejo en su pico\n  muestra su verdadera apariencia,\n haciendo que el principe se de cuenta\n de quien era la persona con la que se estaba por casar"; //imagen 9
+  historia[9]=" una gaviota con un espejo en su pico\n  muestra su verdadera apariencia,\n haciendo que el principe se de cuenta\n de quien era la persona con la que se estaba por casar"; //imagen 9
   historia[10]="eric se da cuenta que la voz de su verdadero amor reside en el collar que ursula traia puesto,\n por lo cual decide arretarselo y lanzarlo al mar"; //imagen 9.5
   historia[11]="ariel recupera su hermosa voz\n y decide salir a la superficie en busca de su principe"; // imagen 10
   historia[12]="se dan un gran beso de amor verdadero y deciden casarse";//imagen 11
@@ -65,14 +65,14 @@ void draw() {
   case 1: //historia[1]="Ariel era una de las tantas hijas de Triton, \n era una de las mas curiosas de todas,\n siempre soñando con ir a la superficie."; //imagen 1
 
     image (imagen[1], 0, 0 );
-    text(historia[1], 100, 400, 400, 60);
+    text(historia[1], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
 
   case 2: // historia[2]="A medida que ariel crecia, su curiosidad lo hacia con ella,\n y a los 17 decidio que subiria a la superficie \n  a saciar todas sus dudas.";// imagen 2 
     image (imagen[2], 0, 0 );
-    text(historia[2],100, 400, 400, 60);
+    text(historia[2],100, 400, 400, 100);
 
     boton (530, 530, 70);
     flecha();
@@ -92,28 +92,28 @@ void draw() {
 
   case 4: //  historia[4]="Ursula, la bruja, intercepta a ariel para proponerle un trato, ella le daria piernas por 1 dia a cambio de su voz, Ariel acepta el trato y le da su voz a ursula sin saber a lo que se enfrentaba"; // imagen 4
     image (imagen[4], 0, 0 );
-    text(historia[4], 100, 400, 400, 60);
+    text(historia[4], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break ;
 
   case 5: //historia[5]="ursula le roba la voz a ariel, dejandola muda pero cumpliendo con su parte del trato, le da sus piernas";//imagen 5
     image (imagen[5], 0, 0 );
-    text(historia[5], 100, 400, 400, 60);
+    text(historia[5], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
 
   case 6: // historia[6]="Ursula se convierte en humana, mas que dispuesta a probar lo que su nueva voz podia hacer sale a la superficie"; //imagen 6
     image(imagen[6], 0, 0);
-    text(historia[6], 100, 400, 400, 60);
+    text(historia[6], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
 
   case 7: //historia[7]="Ursula comienza a cantar y ahi es cuando Eric, nuestro principe oye nuevamente esa voz que tanto lo había cautivado, decide pedirle matrimonio a la hermosa dama portadora de dicha voz"; // imagen 7
     image(imagen[7], 0, 0);
-    text(historia[7], 100, 400, 400, 60);
+    text(historia[7], 100, 400, 400, 100);
     //boton (300, 230, 70);
     //boton (520, 230, 70);
     boton (530, 530, 70);
@@ -123,7 +123,7 @@ void draw() {
 
  case 8: // historia[8]="Comienza la ceremonia de la boda, ariel estaba observando todo desde el mar"; // imagen 8
     image(imagen[8], 0, 0);
-    text(historia[8], 100, 300, 400, 60);
+    text(historia[8], 100, 300, 400, 100);
     boton (300, 530, 70);
     boton (530, 530, 70);
      textSize(10);
@@ -136,7 +136,7 @@ void draw() {
   case 9: //historia[9]="uno de los amigos de ariel va a l rescate del gran amor de su amiga, una gaviota con un espejo en su pico se acerca a ursula, mostrando en el reflejo su verdadera aparienci, haciendo que el principe se de cuenta de quien era la persona con la que se estaba por casar"; //imagen 9
     tint(70);
     image(imagen[9], 0, 0);
-    text(historia[9], 100, 300, 400, 60);
+    text(historia[9], 100, 50, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
@@ -144,7 +144,7 @@ void draw() {
   case 10://eric se da cuenta que la voz de su verdadero amor reside en el collar que ursula traia puesto, por lo cual decide arretarselo y lanzarlo al mar"; //imagen 9.5
     tint(70);
     image(imagen[10], 0, 0);
-    text(historia[10], 100, 400, 400, 60);
+    text(historia[10], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
@@ -152,7 +152,7 @@ void draw() {
   case 11: // historia[11]="ariel recupera su hermosa voz y decide salir a la superficie en busca de su principe"; // imagen 10
     tint(170);
     image(imagen[11], 0, 0);
-    text(historia[11], 100, 400, 400, 60);
+    text(historia[11], 100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
@@ -160,14 +160,14 @@ void draw() {
   case 12: //historia[12]="se dan un gran beso de amor verdadero y deciden casarse";//imagen 11
     tint(170);
     image(imagen[12], 0, 0);
-    text(historia[12],100, 400, 400, 60);
+    text(historia[12],100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
 
   case 13: // historia[13]=" se casan y viven felices para siempre. FIN"; // imagen 12 
     image(imagen[13], 0, 0);
-    text(historia[13],100, 400, 400, 60);
+    text(historia[13],100, 400, 400, 100);
     boton (530, 530, 70);
     flecha();
     break;
